@@ -8,7 +8,7 @@ It is a very light weight app, with a simple User Interface that delivers the to
 
 - create-react-app
 
-## Running Locally
+## ▶️ Running Locally
 
 - Fork the repo
 - `git clone https://github.com/<your-username>/reddit-feed-react.git <name>`
@@ -17,5 +17,5 @@ It is a very light weight app, with a simple User Interface that delivers the to
 - `yarn start`
 - the app should be running at http://localhost:5000/
 
-## Credits
+## 🔔 Credits
 Built from [Tyler Potts](https://youtu.be/rP-ZARMGY10) YouTube tutorial.
