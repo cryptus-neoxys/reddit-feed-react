@@ -15,7 +15,7 @@ It is a very light weight app, with a simple User Interface that delivers the to
 - `cd <name>`
 - `yarn install`
 - `yarn start`
-- the app should be running at http://localhost:5000/
+- the app should be running at http://localhost:3000/
 
 ## 🔔 Credits
 Built from [Tyler Potts](https://youtu.be/rP-ZARMGY10) YouTube tutorial.
